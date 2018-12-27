@@ -83,6 +83,8 @@ The following are integral objects (free relief is not available):
 All poles marking fairways and penalty areas are moveable obstructions. Relief may be taken under Rule 15.2.
 
 
+***
+
 
 
 
