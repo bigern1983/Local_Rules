@@ -6,7 +6,7 @@ When a player's ball lies in the fairway of the hole being played, the player ma
 
 * **Reference Point**: 
   - Spot of the original ball.
-  - Size of Relief Area Measured from Reference Point:
+* **Size of Relief Area Measured from Reference Point**:
   - Within a grip length of the reference point.
 * **Limits on Location of Relief Area**:
   - Must not be nearer the hole than the reference point.
