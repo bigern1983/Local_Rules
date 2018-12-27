@@ -41,8 +41,10 @@ When a player's ball is in a penalty area, including when it is known or virtual
 
 Or, when the ball last crossed the edge of the red penalty area running behind the 9th/18th green, as an extra relief option adding one penalty stroke, the player may drop the original ball or another ball on the opposite side of the penalty area:
 
-* **Reference Point**: The estimated point on the opposite edge of the penalty area that is the same distance from the hole as the estimated point where the original ball last crossed the edge of the red penalty area.
-* **Size of Relief Area Measured from Reference Point**: Two club-lengths, but with these limits:
+* **Reference Point**: 
+   - The estimated point on the opposite edge of the penalty area that is the same distance from the hole as the estimated point where the original ball last crossed the edge of the red penalty area.
+* **Size of Relief Area Measured from Reference Point**: 
+  - Two club-lengths, but with these limits:
 * **Limits on Location of Relief Area**:
   - Must not be nearer the hole than the reference point, and
   - May be in any area of the course except the same penalty area, but
