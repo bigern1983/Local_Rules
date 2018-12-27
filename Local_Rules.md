@@ -1,6 +1,4 @@
-                   
-
-## Special Relief Procedures
+# Special Relief Procedures
 ### Preferred Lies  
 When a player's ball lies in the fairway of the hole being played, the player may take free relief once by lifting, cleaning if required and placing the original ball or another ball in and playing it from this relief area:  
 
@@ -91,8 +89,6 @@ The following are integral objects (free relief is not available):
 ### Moveable Obstructions
 All poles marking fairways and penalty areas are moveable obstructions. Relief may be taken under Rule 15.2.
 
-Effective:      1st Jan 2019.  
-To be reviewed: 1st Mar 2019. 
 
 
 
