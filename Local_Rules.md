@@ -98,4 +98,4 @@ Date of next review: 1 Mar 2019
 [Rule 14.7a]: https://www.randa.org/en/rog/2019/rules/the-rules-of-golf/rule-14#14-7a
 [Rule 15.2]: https://www.randa.org/en/rog/2019/rules/the-rules-of-golf/rule-15#15-2
 [Rule 16.1]: https://www.randa.org/en/rog/2019/rules/the-rules-of-golf/rule-16#16-1
-[Rule 17.1d]: https://www.randa.org/en/rog/2019/rules/the-rules-of-golf/rule-14#17-1d
+[Rule 17.1d]: https://www.randa.org/en/rog/2019/rules/the-rules-of-golf/rule-17#17-1d
