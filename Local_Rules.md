@@ -1,4 +1,6 @@
-# Special Relief Procedures
+# Local Rules 
+
+## Special Relief Procedures
 ### Preferred Lies  
 When a player's ball lies in the fairway of the hole being played, the player may take free relief once by lifting, cleaning if required and placing the original ball or another ball in and playing it from this relief area:  
 
