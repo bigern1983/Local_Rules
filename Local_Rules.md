@@ -20,7 +20,7 @@ General Penalty Under [Rule 14.7a].
 ### Astroturf
 When a player's ball lies in the fairway of the hole being played, the player may elect to place their ball onto an Astroturf or artificial turf mat in accordance with the following procedures.
 
-* The mat is to placed directly behind the ball. 
+* The mat is to placed directly behind the ball and is considered to be a marker.
 * The ball is to be lifted, cleaned if necessary and placed on the mat at least 5 cm from the mat's rear edge.  
 
 A ball that moves whilst on the mat the ball is to replaced without penalty regardless of whether it was caused to move by the player or natural forces.  
@@ -92,6 +92,20 @@ The following are integral objects (free relief is not available):
 All poles marking fairways and penalty areas are moveable obstructions. Relief may be taken under [Rule 15.2].
 
 
+## Out of Bounds
+With the following exceptions, a ball coming to rest on or beyond any public path, road or kerb stone is out of bounds even if it comes to rest on another part of the course that would otherwise be in bounds:
+
+* When playing the 9th hole the ball is in bounds between the tee and fairway.
+* When playing the 4th/13th the concrete path is considered to be in bounds. 
+* The concrete path to the right side of the 5th/14th hole is in bounds at all times. 
+
+
+A ball coming to rest on or in the old fire station forecourt, the skate park or the helipad is out of bounds. 
+A ball lying inside the wire of the LPG cage between the 3rd and 12th tee boxes is out of bounds. 
+A ball lying inside the wire of the substation close to the 4th/13th tee box is out of bounds.  
+[Rule 18.2] applies.
+
+
 Date of next review: 1 Mar 2019
 
 
@@ -101,3 +115,4 @@ Date of next review: 1 Mar 2019
 [Rule 15.2]: https://www.randa.org/en/rog/2019/rules/the-rules-of-golf/rule-15#15-2
 [Rule 16.1]: https://www.randa.org/en/rog/2019/rules/the-rules-of-golf/rule-16#16-1
 [Rule 17.1d]: https://www.randa.org/en/rog/2019/rules/the-rules-of-golf/rule-17#17-1d
+[Rule 18.2]:https://www.randa.org/en/rog/2019/rules/the-rules-of-golf/rule-18#18-2
