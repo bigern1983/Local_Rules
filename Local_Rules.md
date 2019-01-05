@@ -18,10 +18,10 @@ Penalty for Playing Ball from a Wrong Place in Breach of Local Rule:
 General Penalty Under [Rule 14.7a].
 
 ### Astroturf
-When a player's ball lies in the fairway of the hole being played, the player may elect to place their ball onto an Astroturf or artificial turf mat in accordance with the following procedures.
+When a player's ball lies in the fairway of the hole being played, the player may elect to place their ball onto an Astroturf or artificial turf mat in accordance with the following procedures:
 
 * The mat is to placed directly behind the ball and is considered to be a marker.
-* The ball is to be lifted, cleaned if necessary and placed on the mat at least 5 cm from the mat's rear edge.  
+* The ball is to be lifted, cleaned if necessary and placed on the mat at least 5cm from the mat's rear edge.  
 
 A ball that moves whilst on the mat the ball is to replaced without penalty regardless of whether it was caused to move by the player or natural forces.  
 A ball that repeatedly rolls off the mat should be replaced in its original position from where the Preferred Lies Local Rule may be applied.
@@ -64,7 +64,7 @@ In the general area, the following are deemed to constitute ground under repair:
 * Piles of sand.
 * Piles of rock.
 * Piles of stones. 
-* Concrete or man made foundations.
+* Concrete or man-made foundations.
 * Embedded cap rock or large embedded stones.  
 
 Relief may be taken under [Rule 16.1].  
@@ -96,12 +96,14 @@ All poles marking fairways and penalty areas are moveable obstructions. Relief m
 With the following exceptions, a ball coming to rest on or beyond any public path, road or kerb stone is out of bounds even if it comes to rest on another part of the course that would otherwise be in bounds:
 
 * When playing the 9th hole the ball is in bounds between the tee and fairway.
-* When playing the 4th/13th the concrete path that crosses the hole is considered to be in bounds. 
+* When playing the 4th/13th hole, the concrete path that crosses the hole is considered to be in bounds. 
 * A ball on or beyond the concrete path to the right hand side of the 5th/14th hole is in bounds. 
 
 
 A ball coming to rest on or in the old fire station forecourt, the skate park or the helipad is out of bounds. 
+
 A ball lying inside the wire of the LPG cage between the 3rd and 12th tee boxes is out of bounds. 
+
 A ball lying inside the wire of the substation close to the 4th/13th tee box is out of bounds.  
 [Rule 18.2] applies.
 
