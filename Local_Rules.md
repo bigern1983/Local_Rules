@@ -96,8 +96,8 @@ All poles marking fairways and penalty areas are moveable obstructions. Relief m
 With the following exceptions, a ball coming to rest on or beyond any public path, road or kerb stone is out of bounds even if it comes to rest on another part of the course that would otherwise be in bounds:
 
 * When playing the 9th hole the ball is in bounds between the tee and fairway.
-* When playing the 4th/13th the concrete path is considered to be in bounds. 
-* The concrete path to the right side of the 5th/14th hole is in bounds at all times. 
+* When playing the 4th/13th the concrete path that crosses the hole is considered to be in bounds. 
+* A ball on or beyond the concrete path to the right hand side of the 5th/14th hole is in bounds. 
 
 
 A ball coming to rest on or in the old fire station forecourt, the skate park or the helipad is out of bounds. 
