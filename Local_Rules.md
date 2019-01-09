@@ -23,7 +23,7 @@ When a player's ball lies in the fairway of the hole being played, the player ma
 * The mat is to placed directly behind the ball and is considered to be a marker.
 * The ball is to be lifted, cleaned if necessary and placed on the mat at least 5cm from the mat's rear edge.  
 
-A ball that moves whilst on the mat the ball is to replaced without penalty regardless of whether it was caused to move by the player or natural forces.  
+A ball that moves whilst on the mat is to replaced without penalty regardless of whether it was caused to move by the player or natural forces.  
 A ball that repeatedly rolls off the mat should be replaced in its original position from where the Preferred Lies Local Rule may be applied.
 
 The mat used when applying this Local Rule must conform to the following criteria:
