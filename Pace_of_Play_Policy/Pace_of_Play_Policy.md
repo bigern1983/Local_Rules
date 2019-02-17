@@ -1,4 +1,4 @@
-﻿# ANGC PACE OF PLAY POLICY
+﻿# ANGC Pace of Play Policy
 
 The purpose of the policy is to encourage players to eliminate slow play and complete their round in a timely manner.
 For some time Members and the Committee have been concerned about the pace of both Competitive and General play at the Club.
