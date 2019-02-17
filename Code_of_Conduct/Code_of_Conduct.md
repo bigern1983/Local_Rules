@@ -54,7 +54,7 @@ All the rules of the Royal and Ancient Golf Club of St Andrews (generally referr
   - Mobile phones are allowed in the clubhouse. However, if taking a call please proceed to the patio to continue a call or if you need to make a call. 
 
 
-## Ayios Nikolaos Golf Club Dress Code 
+## Dress Code 
  
 ### On the Golf Course
 
