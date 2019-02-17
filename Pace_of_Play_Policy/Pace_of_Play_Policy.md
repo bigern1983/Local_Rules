@@ -1,11 +1,11 @@
 ﻿# ANGC Pace of Play Policy
 
 The purpose of the policy is to encourage players to eliminate slow play and complete their round in a timely manner.
-For some time Members and the Committee have been concerned about the pace of both Competitive and General play at the Club.
+For some time Members and the Committee have been concerned about the pace of both competitive and general play at the Club.
 Slow play can detract from the enjoyment of golf for many players at any level.  Few golfers are heard to complain about play being too quick!
 
 The responsibility falls on both the Club and Players to make sure a sensible pace of play is achieved.
-All players should take the time to visit the R&A website and view the pace of play manual with particular attention given to the player behaviour section. You should also be aware Ready Golf is in operation.
+All players should take the time to visit the R&A website and view the pace of play manual with particular attention given to the player behaviour section. You should also be aware that Ready Golf is in operation.
 
 [R&A Pace of Play Manual](https://www.randa.org/en/rulesequipment/pace-of-play/manual)
 
@@ -31,6 +31,7 @@ These guidelines are to remind every player what they can do to reduce their rou
 * Hitting a shot before helping someone to look for a lost ball.
 * Putting out even if it means standing close to someone's line.
 * Hitting a shot if a person who has just played from a greenside bunker is still farthest from the hole but is delayed due to raking the bunker
-* When a player’s ball has gone over the back of a green, any player closer to the hole but chipping from the front of the green should play while the other player is having to walk to their ball and assess their shot
+* When a player’s ball has gone over the back of a green, any player closer to the hole but chipping from the front of the green should play whilst the other player is having to walk to their ball and assess their shot
 * Marking scores upon immediate arrival at the next tee, except that the first player to tee off marks their card immediately after teeing off
 
+ 

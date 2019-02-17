@@ -13,17 +13,17 @@ ANGC is committed to promoting the values of:
 
 This code of conduct is designed to enhance the value of the Club and to ensure that all Members and guests enjoy the game of golf in a pleasant and friendly environment. Members and their guests are expected at all times to treat fellow Members, Guests, Visitors and Club Staff with courtesy and respect. Reported breaches of these standards will be considered a disciplinary matter and may lead to sanctions against the Member responsible.
 
-## Behavior and Etiquette
+## Behaviour and Etiquette
 
 All the rules of the Royal and Ancient Golf Club of St Andrews (generally referred to as ‘the rules of golf’) apply, without exception. So too do the rules and regulations governed by the Cyprus Golf Federation (CGF). It is the duty of every member to become familiar with all such rules. 
 
-* All local rules, as displayed in the clubhouse or on the score card must be adhered to. It is the duty of every member to become familiar with all local rules and to all changes to the local rules. 
+* All local rules, as displayed in the Clubhouse or on the score card must be adhered to. It is the duty of every member to become familiar with all local rules and to all changes to the local rules. 
 
-* Players must turn up at a minimum 30 minutes prior to their tee time and report to clubhouse before commencement of play. 
+* Players must turn up at a minimum 30 minutes prior to their tee time and report to the Clubhouse before commencement of play. 
 
 * Late competitors will be disqualified. A record will be kept of all late-comers and of all who fail to give adequate notice of a cancellation. 
 
-* Before commencement of play in a competition the member must pay the entry fee.
+* Before commencement of play in a competition, the member must pay the entry fee.
 
 * **While playing on the course members and guests must:** 
   - Show respect to fellow golfers and Club staff
@@ -39,9 +39,9 @@ All the rules of the Royal and Ancient Golf Club of St Andrews (generally referr
 * **While playing in competition:**
   - Members’ scores must be recorded by the marker of the scorecard
   - Competitors must return all cards in competitions
-  - Scorecards must be signed and have correct handicap and date
-  - Local rules posted in the clubhouse or on entry to the course must be observed without exception
-  - Only fully paid up members of Ayios Nikolaos Golf Club can participate in club competitions 
+  - Scorecards must be signed and have the correct handicap and date
+  - Local rules posted in the Clubhouse or on entry to the course must be observed without exception
+  - Only fully paid up members of Ayios Nikolaos Golf Club can participate in Club competitions 
 
 * **Player’s Handicap Responsibilities:**
   - It is the responsibility of each member to maintain his/her handicap record
@@ -50,8 +50,8 @@ All the rules of the Royal and Ancient Golf Club of St Andrews (generally referr
 
 * **In the Clubhouse:**
 
-  - The clubhouse is frequented by all age groups and it is important to be mindful not to cause offence by improper utterances or bad language
-  - Mobile phones are allowed in the clubhouse. However, if taking a call please proceed to the patio to continue a call or if you need to make a call. 
+  - The Clubhouse is frequented by all age groups and it is important to be mindful not to cause offence by improper utterances or bad language
+  - Mobile phones are allowed in the Clubhouse. However, if taking a call please proceed to the patio to continue a call or if you need to make a call. 
 
 
 ## Dress Code 
@@ -62,15 +62,15 @@ Members are expected to adhere to the ANGC Dress Code regulations while on the g
 
 The following items are unacceptable: 
 
-* Denim Jeans / jackets
+* Denim jeans / jackets
 * Untailored shorts or multi-patterned shorts
 * Tracksuits / football or rugby jerseys
 * Tee shirts 
-* Flip Flops
+* Flip flops
 
 ### In the Clubhouse
 
-Members are expected to adhere to the ANGC Club Dress Code regulations while in the clubhouse and they also have a responsibility to ensure that their guests comply with the code. Golf attire is the minimum standard for all Club competitions.
+Members are expected to adhere to the ANGC Club Dress Code regulations whilst in the Clubhouse and they also have a responsibility to ensure that their guests comply with the code. Golf attire is the minimum standard for all Club competitions.
 
 Smart casual dress (including smart tailored shorts) is to be worn in the Clubhouse at all ANGC social functions. No baseball caps / woollen hats / etc can be worn. 
 
